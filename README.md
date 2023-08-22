@@ -62,4 +62,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 *Note: This README provides a general overview of the workflow. For detailed usage instructions and customization options, please refer to the comments in the provided scripts (`my_workflow.nf` and `plot_histogram.py`).*
 
-*Created by [Your Name](https://github.com/your-username)*
+
